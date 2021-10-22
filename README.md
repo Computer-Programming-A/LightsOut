@@ -17,7 +17,7 @@ Extensions
 -----------
 If you have extra time, you may want to add features to your game to make it more challenging. You could make a game with different levels of difficulty. One way to make the game more challenging is to start with a different randomly lit buttons. Be warned though that not all arrangements are solvable!
 
-[Wolfram Math World](https://mathworld.wolfram.com/LightsOutPuzzle.html) has a good web page that explains The mathematics of the Lights Out Puzzle. (The field of math that is used to solve the Lights Out puzzle is called "linear algebra")
+[Wolfram Math World](https://mathworld.wolfram.com/LightsOutPuzzle.html) has a good web page that explains the mathematics of the Lights Out Puzzle. (The field of math that is used to solve the Lights Out puzzle is called "linear algebra")
 
 Samples of Student Work
 -----------------------
