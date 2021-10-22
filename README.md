@@ -1,7 +1,7 @@
 Lights Out
 ==========
 ![](2880px-LightsOutIllustration.svg.png)   
-In this assignment you will write a JavaScript program using p5 that simulates the Lights Out electronic game that was released by Tiger Electronics in 1995. [Wikipedia has a good article](https://en.wikipedia.org/wiki/Lights_Out_(game)) that describes the game, and you can see an [old commercial for the game on YouTube](https://www.youtube.com/watch?v=pj0lVmhkx7M). You can play the lights out game online [here](https://www.logicgamesonline.com/lightsout/).
+In this assignment you will write a JavaScript program using p5 that simulates the Lights Out hand held electronic game that was released by Tiger Electronics in 1995. [Wikipedia has a good article](https://en.wikipedia.org/wiki/Lights_Out_(game)) that describes the game, and you can see an [old commercial for the game on YouTube](https://www.youtube.com/watch?v=pj0lVmhkx7M). You can play the lights out game online [here](https://www.logicgamesonline.com/lightsout/).
 
 When you play the game, you could magine that your job is managing a power plant here in San Francisco. It is an unusually hot summer night and a brown-out has hit the entire city leaving millions of people in darkness. You need to turn all the lights back on as quickly as possible. Hooking up gas generators in each of the major areas of the city should do the trick, however the generators are a bit tricky when it comes to powering an entire city. One generator can power 5 city blocks: one central block, and one block each in the north, south, east, and west directions. However, if two generators try to power the same city block, they short out. In order to win the game you must turn all the lights for every block in the city.
 
