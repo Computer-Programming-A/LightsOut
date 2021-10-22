@@ -9,7 +9,7 @@ You may find slides ? to ? helpful of the [slide presentation](https://docs.goog
 
 Program requirements
 --------------------
-* Your lights out game must have at least a 5 x 5 grid that uses an 2d array. (Look at the example on slide ? of the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) for one way to use a 2d array oto represent the grid.) 
+* Your lights out game must have at least a 5 x 5 grid that uses an 2d array. (Look at the example on slide ? of the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) for one way to use a 2d array to represent the grid.) 
 * Customize the HTML and CSS of the web page that displays your game.  
 * Submit the URL of your game to Google classroom using the "present" link on p5.
 
