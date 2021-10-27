@@ -57,7 +57,7 @@ function drawGrid(){
 }
 ```
 2. Run the program. You should see a 5x5 grid of black squares. Now go the declaration `var grid` at the top of the program and change one of the `false` elements to `true`. Run the program and you should see the corresponding square in the grid switch to white.
-2. Complete the `flipLight(r, c)` function. It should switch the element at `grid[r][c]` to its opposite.
+2. Complete the `flipLight(r, c)` function. It should switch the element at `grid[r][c]` to its opposite. Run the program. You should be able to flip a square back and forth from black to white by clicking on it.
 3. Complete the `isValid(r,c)` function. It should return `true` if (r,c) is a valid position on the grid. In all other cases it should return `false`.
 4. Add code to `mousePressed()` that flips the lights at the four neighboring positions.
 5. Add code to to `draw()` that checks if the player has successfully solved the puzzle and if so, display an appropriate message.
