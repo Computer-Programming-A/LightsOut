@@ -9,9 +9,56 @@ You may find slides ? to ? helpful of the [slide presentation](https://docs.goog
 
 Program requirements
 --------------------
-* Your lights out game must have at least a 5 x 5 grid that uses an 2d array. (Look at the example on slide ? of the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) for one way to use a 2d array to represent the grid.) 
+* Your lights out game must have at least a 5 x 5 grid that uses an 2d array. (Look at the suggestion below for one way to use a 2d array to represent the grid.) 
 * Customize the HTML and CSS of the web page that displays your game  
 * Submit the URL of your game to Google classroom using the "present" link in p5
+
+Suggested steps to completing this assignment
+-----------
+1. Here is some starter code that draws a 5x5 grid
+```javascript
+var grid = [
+    [false, false, false, false, false],
+    [false, false, false, false, false],
+    [false, false, false, false, false],
+    [false, false, false, false, false],
+    [false, false, false, false, false]
+  ];
+function setup() {
+  createCanvas(400, 400);
+  stroke(255, 0, 0);
+}
+
+function draw() {
+  drawGrid();
+}
+function mousePressed() {
+  let col = int(mouseX / 80);
+  let row = int(mouseY / 80);
+  flipLight(row,col);
+}
+function flipLight(row, col){
+  /* your code here */
+}
+function isValid(r, c){
+  /* your code here */
+}
+function drawGrid(){
+  for (var r = 0; r < grid.length; r++)
+    for (var c = 0; c < grid[r].length; c++) {
+      let x = c * 80;
+      let y = r * 80;
+      if (grid[r][c] === false) 
+        fill(0);
+      else 
+        fill(255);
+      rect(x, y, 80, 80);
+    }
+}
+```
+2. Complete the `flipLight(row, col)` function. It should switch the element at `grid[row][col]` to its opposite.
+3. Complete the `isValid(r,c)` function. It should return `true` if (r,c) is a valid position on the grid. In all other cases it should return `false`.
+4. Add code to `mousePressed()` that flips the lights at the four neighboring positions.
 
 Extensions
 -----------
