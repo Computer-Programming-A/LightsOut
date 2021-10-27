@@ -59,6 +59,7 @@ function drawGrid(){
 2. Complete the `flipLight(r, c)` function. It should switch the element at `grid[r][c]` to its opposite.
 3. Complete the `isValid(r,c)` function. It should return `true` if (r,c) is a valid position on the grid. In all other cases it should return `false`.
 4. Add code to `mousePressed()` that flips the lights at the four neighboring positions.
+5. Write code to check if the player has successfully solved the puzzle and if so, display an appropriate message.
 
 Extensions
 -----------
