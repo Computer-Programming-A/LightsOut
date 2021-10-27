@@ -37,7 +37,7 @@ function mousePressed() {
   let row = int(mouseY / 80);
   flipLight(row,col);
 }
-function flipLight(row, col){
+function flipLight(r, c){
   /* your code here */
 }
 function isValid(r, c){
@@ -56,7 +56,7 @@ function drawGrid(){
     }
 }
 ```
-2. Complete the `flipLight(row, col)` function. It should switch the element at `grid[row][col]` to its opposite.
+2. Complete the `flipLight(r, c)` function. It should switch the element at `grid[r][c]` to its opposite.
 3. Complete the `isValid(r,c)` function. It should return `true` if (r,c) is a valid position on the grid. In all other cases it should return `false`.
 4. Add code to `mousePressed()` that flips the lights at the four neighboring positions.
 
