@@ -15,7 +15,7 @@ Program requirements
 
 Suggested steps to completing this assignment
 -----------
-1. Here is some starter code that draws a 5x5 grid
+1. Here is some starter code that draws a 5x5 grid. You can copy and paste this into a new program on [p5](https://editor.p5js.org/). Save your program with a meaningful name like *LightsOut*.
 ```javascript
 var grid = [
     [false, false, false, false, false],
