@@ -5,7 +5,7 @@ In this assignment you will write a JavaScript program using p5 to simulate the 
 
 When you play the game, you could magine that your job is managing a power plant here in San Francisco. It is an unusually hot summer night and a brown-out has hit the entire city leaving millions of people in darkness. You need to turn all the lights back on as quickly as possible. Hooking up gas generators in each of the major areas of the city should do the trick, however the generators are a bit tricky when it comes to powering an entire city. One generator can power 5 city blocks: one central block, and one block each in the north, south, east, and west directions. However, if two generators try to power the same city block, they short out. In order to win the game you must turn on all the lights for every block in the city.
 
-You may find slides 456 to 476 helpful of the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing)in completing this assignment
+You may find slides 456 to 476 helpful of the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) in completing this assignment
 
 Program requirements
 --------------------
