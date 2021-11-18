@@ -72,6 +72,7 @@ If you have extra time, you may want to add features to your game to make it mor
 
 Samples of Student Work
 -----------------------
+[Kathleen](https://editor.p5js.org/kaban/full/vOZ497WNG)   
 [Peter](https://preview.p5js.org/n_ll/present/JIZKXaOQR)   
 [Bella](https://preview.p5js.org/bejayanti/present/DGYk-qYD8)   
 [Jasmine](https://preview.p5js.org/jaguan4/present/wGQ8hlQRI)    
