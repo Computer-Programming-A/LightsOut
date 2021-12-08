@@ -107,7 +107,7 @@ Samples of Student Work
 [Justin](https://editor.p5js.org/justinlin8/full/yw6urbDph)   
 [McKayla](https://editor.p5js.org/mcma/full/WGRMt1K1C)   
 [Owen](https://editor.p5js.org/owsheetz/full/CIIQMoaJ7)   
-[Npah](https://editor.p5js.org/BiZaark/full/CR1BBjK0n)   
+[Noah](https://editor.p5js.org/BiZaark/full/CR1BBjK0n)   
 [Patrick](https://editor.p5js.org/payao/full/jldmpZdIi)   
 [Alice](https://editor.p5js.org/alliang/full/vPpJexQgI)   
 [Ally](https://editor.p5js.org/alzhao/full/Wb3-e43DT)   
