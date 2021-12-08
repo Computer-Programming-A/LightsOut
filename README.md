@@ -83,6 +83,7 @@ Samples of Student Work
 [Kathleen](https://editor.p5js.org/kaban/full/vOZ497WNG)   
 [Jimmy](https://editor.p5js.org/jichen8/full/SuxSQmka2)   
 [Peter](https://preview.p5js.org/n_ll/present/JIZKXaOQR)   
+[Ben](https://editor.p5js.org/BeWill/full/y0mXtyaVp)   
 [Eden](https://editor.p5js.org/edhuang7/full/4s8laZEXN)   
 [Kimi](https://editor.p5js.org/kinorway/full/osa-i2X8X)   
 [Kathy](https://editor.p5js.org/kalo/full/OAt_8BRyn)   
