@@ -3,9 +3,7 @@ Lights Out
 ![](2880px-LightsOutIllustration.svg.png)   
 In this assignment you will write a JavaScript program using p5 to simulate the Lights Out hand held electronic game that was released by Tiger Electronics in 1995. [Wikipedia has a good article](https://en.wikipedia.org/wiki/Lights_Out_(game)) that describes the game, and you can see an [old commercial for the game on YouTube](https://www.youtube.com/watch?v=pj0lVmhkx7M). You can play the lights out game online [here](https://daattali.com/shiny/lightsout/). You can also read about a strategy to win the game called [Chase the lights](https://help.gnome.org/users/lightsoff/stable/strategy.html.en).
 
-When you play the game, you could magine that your job is managing a power plant here in San Francisco. It is an unusually hot summer night and a brown-out has hit the entire city leaving millions of people in darkness. You need to turn all the lights back on as quickly as possible. Hooking up gas generators in each of the major areas of the city should do the trick, however the generators are a bit tricky when it comes to powering an entire city. One generator can power 5 city blocks: one central block, and one block each in the north, south, east, and west directions. However, if two generators try to power the same city block, they short out. In order to win the game you must turn on all the lights for every block in the city.
-
-You may find slides 456 to 476 of the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful in completing this assignment
+You may find slides 451 to 476 of the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) helpful in completing this assignment
 
 Program requirements
 --------------------
@@ -62,7 +60,7 @@ function drawGrid(){
 4. Complete the `flipLight(r, c)` function. It should switch the element at `grid[r][c]` to its opposite. Run the program. You should be able to flip a square back and forth from black to white by clicking on it.
 5. Complete the `isValid(r,c)` function. It should return `false` if (r,c) is outside the edges of the grid. In all other cases it should return `true`.
 6. Add code to `mousePressed()` that flips the lights at the four neighboring positions if each of those positions is valid.
-7. Add code to to `draw()` that checks if the player has successfully solved the puzzle and if so, display an appropriate message.
+7. Add code to to `draw()` that checks if the player has successfully solved the puzzle and if so, display an appropriate message. (See slides 474 to 476 of the [slide presentation](https://docs.google.com/presentation/d/1fm_Di0qR4HpRWTf8tJtcW3u5by3OrilfXIPZ517K1js/edit?usp=sharing) for one approach)
 
 Extensions
 -----------
