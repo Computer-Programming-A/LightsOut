@@ -8,7 +8,7 @@ You may find slides 451 to 476 of the [slide presentation](https://docs.google.c
 Program requirements
 --------------------
 * Your lights out game must have at least a 5 x 5 grid that uses an 2d array. (Look at the suggestion below for one way to use a 2d array to represent the grid) 
-* Your lights out game should tell the user if they have won
+* Your lights out game should tell the user they have won the game if they successfully turn out all the lights
 * Customize the HTML and CSS of the web page that displays your game  
 * Submit the URL of your game to Google classroom using the "present" link in p5
 
