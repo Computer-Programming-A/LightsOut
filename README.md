@@ -73,7 +73,16 @@ If you have extra time, you may want to add features to your game to make it mor
 Samples of Student Work
 -----------------------
 [Alyssa](https://editor.p5js.org/almagtoto-diaz/full/bNR1wJ0-e)   
+[Kai](https://editor.p5js.org/kali13/full/kXjj8xibg)   
+[Amy](https://editor.p5js.org/amhuang4/full/MbWsTG8zo)   
+[Theo](https://editor.p5js.org/thruefli/full/vC3-EfKhQ)   
+[Grace](https://editor.p5js.org/grhuang/full/BTE-_sZgL)   
+[Oliver](https://editor.p5js.org/Oliver312/full/FSB3YT50v)   
+[Breanna](https://editor.p5js.org/brlew1/full/-rqmpAKvN)   
+[Alex](https://editor.p5js.org/alohlenschlager/full/yn4VwM5p2)   
+[Justin](https://editor.p5js.org/Daqk1/full/eXplalUSS)   
 [Kathleen](https://editor.p5js.org/kaban/full/vOZ497WNG)   
+[Jimmy](https://editor.p5js.org/jichen8/full/SuxSQmka2)   
 [Peter](https://preview.p5js.org/n_ll/present/JIZKXaOQR)   
 [Bella](https://preview.p5js.org/bejayanti/present/DGYk-qYD8)   
 [Jasmine](https://preview.p5js.org/jaguan4/present/wGQ8hlQRI)    
@@ -86,8 +95,11 @@ Samples of Student Work
 [Owen](https://editor.p5js.org/owsheetz/full/CIIQMoaJ7)   
 [Npah](https://editor.p5js.org/BiZaark/full/CR1BBjK0n)   
 [Patrick](https://editor.p5js.org/payao/full/jldmpZdIi)   
+[Alice](https://editor.p5js.org/alliang/full/vPpJexQgI)   
 [Ally](https://editor.p5js.org/alzhao/full/Wb3-e43DT)   
 [Rio](https://editor.p5js.org/rihaile/full/5oPvWZOV5)   
+[Alejandro](https://editor.p5js.org/alaguilar5/full/h-sHJvekg)   
+[Tiffany](https://editor.p5js.org/ticaballero/full/nZygA70Hp)   
 
 
 
