@@ -72,11 +72,22 @@ If you have extra time, you may want to add features to your game to make it mor
 
 Samples of Student Work
 -----------------------
+[Alyssa](https://editor.p5js.org/almagtoto-diaz/full/bNR1wJ0-e)   
 [Kathleen](https://editor.p5js.org/kaban/full/vOZ497WNG)   
 [Peter](https://preview.p5js.org/n_ll/present/JIZKXaOQR)   
 [Bella](https://preview.p5js.org/bejayanti/present/DGYk-qYD8)   
 [Jasmine](https://preview.p5js.org/jaguan4/present/wGQ8hlQRI)    
 [Jeffrey](https://preview.p5js.org/JeffreyLin/present/wyIDhqXzE)   
 [Kaitlyn](https://preview.p5js.org/kaluu/present/aAjMEwWzd)   
+[Aaron](https://editor.p5js.org/aahill1/full/BsCq60Ofi)   
+[Pansy](https://editor.p5js.org/pakuang/full/gG_RvGBV7)   
+[Justin](https://editor.p5js.org/justinlin8/full/yw6urbDph)   
+[McKayla](https://editor.p5js.org/mcma/full/WGRMt1K1C)   
+[Owen](https://editor.p5js.org/owsheetz/full/CIIQMoaJ7)   
+[Npah](https://editor.p5js.org/BiZaark/full/CR1BBjK0n)   
+[Patrick](https://editor.p5js.org/payao/full/jldmpZdIi)   
+[Ally](https://editor.p5js.org/alzhao/full/Wb3-e43DT)   
+[Rio](https://editor.p5js.org/rihaile/full/5oPvWZOV5)   
+
 
 
