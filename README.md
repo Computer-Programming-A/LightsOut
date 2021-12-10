@@ -95,6 +95,7 @@ Samples of Student Work
 [Jonathan](https://editor.p5js.org/jolouie1/full/R9LdoTBDY)   
 [Rima](https://editor.p5js.org/rimiah/full/N9mcXYKAX)   
 [Alyssa](https://editor.p5js.org/alagudelo/full/VS7n9R7n9)   
+[Joseph](https://editor.p5js.org/joyuen/full/wDvXszhNk)   
 [Arwyn](https://editor.p5js.org/arbenitez/full/jbpRSPMD8v)   
 [Zachary](https://editor.p5js.org/zabernard/full/vD8qdGfzs)   
 [Bella](https://preview.p5js.org/bejayanti/present/DGYk-qYD8)   
